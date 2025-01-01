@@ -4,7 +4,7 @@
     I hope it works fine.
     Thank you.
     Bye!
-    v1.1
+    v1.2
     
 
 
